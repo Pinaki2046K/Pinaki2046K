@@ -15,6 +15,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/pinaki-auddy"><img src="https://img.shields.io/badge/LinkedIn-Pinaki_Auddy-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/lollz09"><img src="https://img.shields.io/badge/Twitter-@lollz09-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="mailto:pinakiauddy49@gmail.com"><img src="https://img.shields.io/badge/Email-pinakiauddy49@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=pinaki2046k&label=Profile+Views&color=00d4aa&style=flat-square" />
 </p>
@@ -103,10 +104,6 @@ const pinaki = {
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki2046k&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pinaki2046k&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 
 <br/>
 
